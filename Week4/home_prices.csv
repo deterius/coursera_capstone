@@ -1,0 +1,164 @@
+,latitude,longitude,floorSize,price,address,bedrooms,bathrooms,type
+0,33.738061,-116.364176,1233.0,437900.0, Palm Desert,3,2.0, House for sale
+1,33.962587,-116.571054,1618.0,389000.0, Desert Hot Springs,3,3.0, House for sale
+2,33.824434,-116.396561,1875.0,429900.0, Thousand Palms,4,2.0, House for sale
+3,33.756014,-116.389203,1850.0,549900.0, Palm Desert,3,2.0, House for sale
+4,33.754975,-116.388469,1850.0,524900.0, Palm Desert,3,2.0, House for sale
+5,33.676513,-116.310916,1451.0,495000.0, La Quinta,3,2.0, House for sale
+6,33.770321,-116.286901,1194.0,290000.0, Palm Desert,2,2.0, Foreclosure
+7,33.735959,-116.252546,1596.0,365000.0, Indio,2,2.0, House for sale
+8,33.701354,-116.208486,1346.0,399000.0, Indio,3,2.0, House for sale
+9,33.813553,-116.50651,1134.0,515000.0, Palm Springs,3,2.0, House for sale
+10,33.653787,-116.266358,3365.0,99000.0, La Quinta,3,4.0, House for sale
+11,33.72671,-116.370385,1145.0,319000.0, Palm Desert,2,2.0, Townhouse for sale
+12,33.928382,-116.450512,968.0,79000.0, Desert Hot Springs,2,1.0, Home for sale
+13,33.797166,-116.42768,1547.0,335000.0, Rancho Mirage,2,2.0, Condo for sale
+14,33.80717,-116.467132,1825.0,495000.0, Cathedral City,4,2.0, House for sale
+15,33.746814,-116.311547,1392.0,385000.0, Palm Desert,2,2.0, Coming soon
+16,33.956137,-116.518659,1248.0,179000.0, Desert Hot Springs,3,2.0, Home for sale
+17,33.733745,-116.17057,1588.0,365000.0, Indio,2,2.0, House for sale
+18,33.917824,-116.386425,2170.0,369999.0, Desert Hot Springs,4,3.0, House for sale
+19,33.696427,-116.401721,1320.0,325000.0, Palm Desert,2,2.0, Condo for sale
+20,33.709801,-116.254205,1000.0,55000.0, Indio,2,2.0, Home for sale
+21,33.829047,-116.480486,1478.0,285000.0, Cathedral City,2,2.0, Condo for sale
+22,33.738035,-116.361119,1232.0,349000.0, Palm Desert,3,2.0, House for sale
+23,33.864753,-116.564449,2107.0,799000.0, Palm Springs,4,3.0, House for sale
+24,33.758253,-116.37853,1642.0,279000.0, Palm Desert,3,2.0, Home for sale
+25,33.818532,-116.45106,1779.0,420000.0, Cathedral City,3,2.0, House for sale
+26,33.797359,-116.509774,2452.0,645000.0, Palm Springs,3,3.0, House for sale
+27,33.726545,-116.388896,1604.0,535000.0, Palm Desert,4,3.0, House for sale
+28,33.825825,-116.438011,2803.0,749000.0, Rancho Mirage,3,4.0, House for sale
+29,33.780881,-116.433735,1631.0,689000.0, Rancho Mirage,3,3.0, House for sale
+30,33.820016,-116.535199,1200.0,499000.0, Palm Springs,2,3.0, Townhouse for sale
+31,33.829052,-116.480498,1478.0,299900.0, Cathedral City,2,2.0, Condo for sale
+32,33.823935,-116.386399,1188.0,299900.0, Thousand Palms,3,2.0, Home for sale
+33,33.655277,-116.252274,3370.0,1299900.0, La Quinta,3,4.0, House for sale
+34,33.726546,-116.388682,1350.0,455000.0, Palm Desert,3,2.0, House for sale
+35,33.819052,-116.464874,1570.0,439000.0, Cathedral City,3,2.0, House for sale
+36,33.951264,-116.472352,1118.0,250000.0, Desert Hot Springs,2,2.0, House for sale
+37,33.923795,-116.447089,1370.0,205000.0, Desert Hot Springs,3,2.0, New construction
+38,33.816186,-116.534238,1152.0,259000.0, Palm Springs,2,2.0, Condo for sale
+39,33.741181,-116.200432,2411.0,589000.0, Indio,4,4.0, House for sale
+40,33.76992,-116.469447,2800.0,999999.0, Cathedral City,3,3.0, House for sale
+41,33.792262,-116.502098,1140.0,188500.0, Palm Springs,2,2.0, Home for sale
+42,33.744633,-116.278741,1964.0,699900.0, Indio,3,2.0, House for sale
+43,33.778239,-116.441145,2196.0,535000.0, Rancho Mirage,3,3.0, House for sale
+44,33.977635,-116.536557,1580.0,315000.0, Desert Hot Springs,3,2.0, House for sale
+45,33.789713,-116.425259,2227.0,550000.0, Rancho Mirage,3,3.0, Condo for sale
+46,33.716943,-116.365272,1790.0,739000.0, Palm Desert,3,2.0, House for sale
+47,33.815431,-116.526202,1412.0,450000.0, Palm Springs,2,2.0, Condo for sale
+48,33.761453,-116.239656,2397.0,695000.0, Indio,3,3.0, House for sale
+49,33.824027,-116.389455,1440.0,390000.0, Thousand Palms,3,2.0, House for sale
+50,33.850409,-116.483504,1829.0,429999.0, Cathedral City,4,3.0, House for sale
+51,33.983267,-116.533286,1904.0,335000.0, Desert Hot Springs,3,2.0, House for sale
+52,33.688309,-116.29617,2963.0,1295000.0, La Quinta,3,3.0, House for sale
+53,33.833966,-116.472584,1350.0,374999.0, Cathedral City,2,2.0, House for sale
+55,33.920524,-116.439405,1056.0,78000.0, Desert Hot Springs,3,2.0, Home for sale
+56,33.664262,-116.310047,1653.0,695000.0, La Quinta,3,3.0, House for sale
+57,33.813546,-116.52902,821.0,161300.0, Palm Springs,1,1.0, Home for sale
+58,33.81984,-116.474658,1046.0,240000.0, Cathedral City,3,2.0, Multi-family home for sale
+59,33.985384,-116.542581,2107.0,446000.0, Desert Hot Springs,4,3.0, House for sale
+60,33.641749,-116.262566,1901.0,548900.0, Signature PGA WEST,3,4.0, New construction
+61,33.683683,-116.199087,2824.0,469990.0, Valencia,5,3.0, New construction
+62,33.752759,-116.383822,2718.0,710000.0, Palm Desert,4,4.0, House for sale
+63,33.987503,-116.542024,2107.0,419900.0, Desert Hot Springs,4,3.0, House for sale
+64,33.761383,-116.480444,2300.0,925000.0, Cathedral City,3,4.0, House for sale
+65,33.830906,-116.4773,1461.0,495000.0, Cathedral City,2,2.0, House for sale
+66,33.928077,-116.495052,1757.0,380000.0, Desert Hot Springs,5,3.0, House for sale
+67,33.762796,-116.3555,1330.0,330000.0, Palm Desert,2,2.0, Condo for sale
+68,33.736931,-116.403091,2187.0,588000.0, Rancho Mirage,3,2.0, Condo for sale
+69,33.801649,-116.537123,1305.0,465000.0, Palm Springs,2,2.0, Condo for sale
+70,33.850452,-116.484375,1950.0,419000.0, Cathedral City,4,3.0, House for sale
+71,33.816196,-116.37857,1320.0,119900.0, Thousand Palms,3,2.0, Home for sale
+72,33.653782,-116.259894,1627.0,625000.0, La Quinta,3,2.0, Condo for sale
+73,33.769224,-116.476738,2282.0,799000.0, Cathedral City,3,3.0, House for sale
+74,33.719971,-116.289303,1411.0,477000.0, La Quinta,3,2.0, House for sale
+75,33.68689,-116.407546,880.0,69500.0, Palm Desert,1,1.0, Home for sale
+76,33.786522,-116.449774,1095.0,319000.0, Cathedral City,2,2.0, Condo for sale
+77,33.771836,-116.465723,1895.0,649999.0, Cathedral City,4,3.0, House for sale
+78,33.66489,-116.173824,1525.0,310000.0, Coachella,5,2.0, House for sale
+79,33.772051,-116.299136,2777.0,749000.0, Palm Desert,3,4.0, House for sale
+80,33.799512,-116.463931,1056.0,40000.0, Cathedral City,2,2.0, Home for sale
+81,33.759036,-116.291402,1110.0,419000.0, Palm Desert,2,2.0, House for sale
+82,33.784103,-116.452206,2100.0,159000.0, Cathedral City,2,2.0, Home for sale
+83,33.717405,-116.337109,3640.0,1000000.0, Indian Wells,5,4.0, Coming soon
+84,33.803761,-116.54294,2466.0,1395000.0, Palm Springs,4,3.0, House for sale
+85,33.791412,-116.379185,2955.0,969000.0, Palm Desert,4,3.0, House for sale
+86,33.739595,-116.313724,1172.0,389500.0, Palm Desert,2,2.0, House for sale
+87,33.838218,-116.556896,2417.0,3499000.0, Palm Springs,4,3.0, Coming soon
+88,33.797795,-116.403164,4551.0,2200000.0, Rancho Mirage,4,5.0, House for sale
+89,33.655929,-116.30388,7696.0,2200000.0, La Quinta,5,7.0, House for sale
+91,33.774225,-116.429388,8281.0,3590000.0, Rancho Mirage,5,7.0, House for sale
+92,33.715742,-116.349184,3565.0,1148000.0, Indian Wells,3,3.0, House for sale
+93,33.764402,-116.341215,1632.0,569000.0, Palm Desert,3,2.0, House for sale
+94,33.795518,-116.542902,1440.0,199900.0, Palm Springs,2,2.0, Home for sale
+95,33.730584,-116.368579,1642.0,475000.0, Palm Desert,3,2.0, House for sale
+96,33.786685,-116.452312,1512.0,64900.0, Cathedral City,2,2.0, Home for sale
+97,33.800326,-116.509623,1266.0,375000.0, Palm Springs,3,2.0, Condo for sale
+98,33.801651,-116.534622,1240.0,430000.0, Palm Springs,2,2.0, Condo for sale
+99,33.735912,-116.393302,1621.0,449000.0, Rancho Mirage,3,2.0, Condo for sale
+100,33.642184,-116.255103,5800.0,2695000.0, La Quinta,6,5.0, House for sale
+101,33.726954,-116.376463,1680.0,599000.0, Palm Desert,3,2.0, House for sale
+102,33.734741,-116.321071,1818.0,499900.0, Palm Desert,3,3.0, House for sale
+103,33.753797,-116.384096,2731.0,689000.0, Palm Desert,6,4.0, House for sale
+104,33.982989,-116.535566,1228.0,339000.0, Desert Hot Springs,2,2.0, House for sale
+105,33.654435,-116.280606,2497.0,781990.0, La Quinta,3,4.0, New construction
+106,33.830577,-116.545077,1964.0,1095000.0, Palm Springs,2,3.0, House for sale
+107,33.829516,-116.527914,1150.0,275000.0, Palm Springs,2,2.0, Condo for sale
+108,33.923795,-116.447089,1370.0,195000.0, Desert Hot Springs,3,2.0, New construction
+109,33.79526,-116.403182,3693.0,2650000.0, Rancho Mirage,3,4.0, House for sale
+110,33.951317,-116.512228,1580.0,394000.0, Desert Hot Springs,4,2.0, New construction
+111,33.935281,-116.484334,,67500.0, Desert Hot Springs,2,2.0, Home for sale
+112,33.801067,-116.443062,2384.0,685000.0, Rancho Mirage,3,3.0, House for sale
+113,33.766935,-116.390551,1440.0,217000.0, Palm Desert,2,2.0, Home for sale
+114,33.655257,-116.265891,3567.0,1500000.0, The Residence Club at PGA WEST,3,4.0, New construction
+115,33.807102,-116.381789,1056.0,119000.0, Thousand Palms,2,2.0, Home for sale
+116,33.858117,-116.521752,1403.0,649000.0, Palm Springs,3,2.0, House for sale
+117,33.798469,-116.461552,1800.0,145000.0, Cathedral City,2,2.0, Home for sale
+118,33.791907,-116.46644,1371.0,328500.0, Cathedral City,2,2.0, Condo for sale
+119,33.796003,-116.469423,1505.0,349000.0, Cathedral City,2,3.0, Condo for sale
+120,33.853461,-116.538038,1850.0,1500000.0, Palm Springs,4,3.0, House for sale
+121,33.775439,-116.267036,2850.0,489000.0, Indio,4,3.0, House for sale
+122,33.800531,-116.439,2727.0,695000.0, Rancho Mirage,3,3.0, Condo for sale
+123,33.923795,-116.447089,1370.0,199000.0, Desert Hot Springs,3,2.0, New construction
+125,33.752887,-116.221362,2405.0,499900.0, Indio,4,3.0, House for sale
+126,33.746241,-116.389905,1303.0,380000.0, Palm Desert,2,2.0, Condo for sale
+127,33.779435,-116.447286,,69900.0, Cathedral City,2,2.0, Home for sale
+128,33.797303,-116.295505,1914.0,440.0, Palm Desert,2,2.0, Auction
+129,33.837167,-116.502146,2555.0,1349000.0, Palm Springs,2,3.0, House for sale
+130,33.864474,-116.537741,2029.0,795000.0, Flair at Miralon,3,3.0, New construction
+131,33.731749,-116.396912,2107.0,575000.0, Palm Desert,3,3.0, House for sale
+132,33.732904,-116.400323,990.0,599000.0, Rancho Mirage,2,2.0, House for sale
+133,33.928387,-116.452178,1050.0,84500.0, Desert Hot Springs,2,2.0, Home for sale
+134,33.722324,-116.262141,2020.0,578900.0, Indio,2,2.0, House for sale
+136,33.641749,-116.237681,4922.0,2047000.0, La Quinta,5,5.0, House for sale
+137,33.660226,-116.298566,7516.0,4290000.0, La Quinta,4,6.0, House for sale
+138,33.772732,-116.526689,2921.0,2995000.0, Palm Springs,3,4.0, House for sale
+139,33.695708,-116.379395,1705.0,695000.0, Palm Desert,3,3.0, Condo for sale
+140,33.791171,-116.532767,2706.0,1799000.0, Palm Springs,3,4.0, House for sale
+141,33.762486,-116.377329,1950.0,339000.0, Palm Desert,3,2.0, Home for sale
+142,33.766491,-116.530202,3820.0,1495000.0, Palm Springs,4,5.0, House for sale
+143,33.696094,-116.402623,1786.0,399000.0, Palm Desert,3,2.0, Condo for sale
+144,33.695804,-116.252982,2667.0,1745000.0, Indio,3,3.0, House for sale
+145,33.712577,-116.394427,1140.0,295000.0, Palm Desert,2,2.0, Condo for sale
+146,33.694241,-116.256891,4121.0,929000.0, Indio,5,5.0, House for sale
+147,33.739732,-116.388689,1334.0,499999.0, Palm Desert,2,2.0, Condo for sale
+148,33.802327,-116.479141,1034.0,315000.0, Palm Springs,1,2.0, Condo for sale
+149,33.759909,-116.438004,900.0,173000.0, Rancho Mirage,2,1.0, Home for sale
+150,33.864598,-116.564467,1835.0,503000.0, Palm Springs,3,2.0, House for sale
+152,33.64656,-116.242444,4716.0,2195000.0, La Quinta,3,5.0, House for sale
+153,33.753118,-116.381081,2300.0,765000.0, Palm Desert,4,3.0, House for sale
+154,33.740285,-116.395671,1680.0,500000.0, Rancho Mirage,3,2.0, Condo for sale
+155,33.667949,-116.247033,7388.0,8495000.0, La Quinta,5,5.0, House for sale
+156,33.750825,-116.383726,2989.0,999000.0, Palm Desert,4,4.0, House for sale
+157,33.705891,-116.35446,7216.0,3750000.0, Indian Wells,4,6.0, House for sale
+158,33.653928,-116.269955,1330.0,489000.0, La Quinta,2,2.0, Condo for sale
+159,33.758642,-116.403616,1670.0,429000.0, Rancho Mirage,2,2.0, Condo for sale
+161,33.749899,-116.254382,2569.0,504000.0, Indio,2,3.0, House for sale
+162,33.9514,-116.512229,1580.0,394000.0, Desert Hot Springs,4,2.0, New construction
+163,33.718562,-116.39194,1119.0,429900.0, Palm Desert,2,2.0, Condo for sale
+164,33.730833,-116.286606,2525.0,599000.0, La Quinta,4,3.0, House for sale
+165,33.856143,-116.249619,3800.0,650000.0, Desert Hot Springs,8,5.0, House for sale
+166,33.756238,-116.335915,2430.0,995000.0, Palm Desert,3,4.0, House for sale
+167,33.795981,-116.460351,1488.0,62900.0, Cathedral City,2,2.0, Home for sale
+168,33.956266,-116.508117,816.0,229000.0, Desert Hot Springs,2,1.0, House for sale
